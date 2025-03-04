@@ -8,8 +8,8 @@
   }
 
   @font-face {
-    font-family: "OpenAI Sans Bold"; 
-    font-style: "normal"; 
+    font-family: "OpenAI Sans"; 
+    font-style: "bold"; 
     font-display: swap;
   src: 
     url("https://steveco188.github.io/Fonts-sec/OpenAISans-Bold.woff2") format("woff2");
@@ -17,8 +17,8 @@
   }
 
   @font-face {
-    font-family: "OpenAI Sans Medium"; 
-    font-style: "normal"; 
+    font-family: "OpenAI Sans"; 
+    font-style: "medium"; 
     font-display: swap;
   src: 
     url("https://steveco188.github.io/Fonts-sec/OpenAISans-Medium.woff2") format("woff2");
@@ -26,8 +26,8 @@
   }
 
   @font-face {
-    font-family: "OpenAI Sans Semibold"; 
-    font-style: "normal"; 
+    font-family: "OpenAI Sans"; 
+    font-style: "semibold"; 
     font-display: swap;
   src: 
     url("https://steveco188.github.io/Fonts-sec/OpenAISans-Semibold.woff2") format("woff2");
