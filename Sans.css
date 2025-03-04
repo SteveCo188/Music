@@ -8,7 +8,7 @@
   }
 
   @font-face {
-    font-family: "OpenAI Sans Bold"; 
+    font-family: "OpenAI Sans"; 
     font-style: "bold"; 
     font-display: swap;
   src: 
@@ -17,7 +17,7 @@
   }
 
   @font-face {
-    font-family: "OpenAI Sans Medium"; 
+    font-family: "OpenAI Sans"; 
     font-style: "medium"; 
     font-display: swap;
   src: 
@@ -26,7 +26,7 @@
   }
 
   @font-face {
-    font-family: "OpenAI Sans Semibold"; 
+    font-family: "OpenAI Sans"; 
     font-style: "semibold"; 
     font-display: swap;
   src: 
