@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "OpenAI Sans"; 
+    font-style: "normal"; 
+    font-display: swap;
+  src: 
+    url("https://steveco188.github.io/Fonts-sec/OpenAISans-Regular.woff2") format("woff2");
+    font-weight: normal;
+  }
+
+  @font-face {
+    font-family: "OpenAI Sans Bold"; 
+    font-style: "bold"; 
+    font-display: swap;
+  src: 
+    url("https://steveco188.github.io/Fonts-sec/OpenAISans-Bold.woff2") format("woff2");
+    font-weight: bold;
+  }
+
+  @font-face {
+    font-family: "OpenAI Sans Medium"; 
+    font-style: "medium"; 
+    font-display: swap;
+  src: 
+    url("https://steveco188.github.io/Fonts-sec/OpenAISans-Medium.woff2") format("woff2");
+    font-weight: 500;
+  }
+
+  @font-face {
+    font-family: "OpenAI Sans Semibold"; 
+    font-style: "semibold"; 
+    font-display: swap;
+  src: 
+    url("https://steveco188.github.io/Fonts-sec/OpenAISans-Semibold.woff2") format("woff2");
+    font-weight: 600;
+  }
